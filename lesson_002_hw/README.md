@@ -11,4 +11,4 @@ The created program performs:
 
 4) Gets a set of all values of the resulting dictionary;
 
-5) Converts the set to a string.
+5) Converts the set to a string.# py-internship
